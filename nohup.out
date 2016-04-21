@@ -1,0 +1,22 @@
+
+(evince:3690): Gdk-WARNING **: evince: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(evince:2600): Gtk-WARNING **: Attempting to read the recently used resources file at `/home/raymond/.local/share/recently-used.xbel', but the parser failed: Failed to open file '/home/raymond/.local/share/recently-used.xbel': Permission denied.
+
+(evince:2600): Gtk-WARNING **: Attempting to read the recently used resources file at `/home/raymond/.local/share/recently-used.xbel', but the parser failed: Failed to open file '/home/raymond/.local/share/recently-used.xbel': Permission denied.
+
+(evince:2600): Gtk-WARNING **: Attempting to read the recently used resources file at `/home/raymond/.local/share/recently-used.xbel', but the parser failed: Failed to open file '/home/raymond/.local/share/recently-used.xbel': Permission denied.
+
+(evince:2600): Gtk-WARNING **: Attempting to read the recently used resources file at `/home/raymond/.local/share/recently-used.xbel', but the parser failed: Failed to open file '/home/raymond/.local/share/recently-used.xbel': Permission denied.
+
+(evince:2600): Gtk-WARNING **: Attempting to read the recently used resources file at `/home/raymond/.local/share/recently-used.xbel', but the parser failed: Failed to open file '/home/raymond/.local/share/recently-used.xbel': Permission denied.
+
+(evince:2600): Gdk-WARNING **: evince: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(evince:4152): Gdk-WARNING **: evince: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+
+
+(evince:3836): Gdk-WARNING **: evince: Fatal IO error 0 (Success) on X server :0.
+

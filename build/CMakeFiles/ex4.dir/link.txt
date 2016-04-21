@@ -1,0 +1,1 @@
+/usr/bin/cc   -fopenmp -O3 -DNDEBUG     -Wl,-rpath  -Wl,/usr/local/lib  -Wl,--enable-new-dtags CMakeFiles/ex4.dir/main.c.o CMakeFiles/ex4.dir/functions.c.o  -o ex4 -rdynamic /usr/local/lib/libmpi.so -Wl,-rpath,/usr/local/lib 
